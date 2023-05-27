@@ -24,3 +24,8 @@ h1{
 #subheading{
     text-align: center;
 }
+.bottom{
+    background-color: aqua;
+    color: black;
+font-size: 13px;
+}
